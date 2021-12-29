@@ -1,6 +1,6 @@
 const CLIENT_ID = "9e2bafa4d5cf43b8a099033dd8819010"
 const Login_button = document.querySelector("button")
-const REDIRECT_URI = "https://adambernste.in/spotifyTopTracks/callbackCP"
+const REDIRECT_URI = "https://lyndonmelon.github.io/Song-Guessing-Game/"
 const SCOPES = [
   'user-read-email',
   'user-top-read'
